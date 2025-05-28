@@ -26,15 +26,6 @@ Este projeto é uma aplicação **Node.js + Express** que realiza operações **
 
 <br>
 
-## ⚙️ Pré-requisitos
-
-- Placa ESP8266 (NodeMCU ou similar)
-- Sensor DHT11
-- Conta no [Firebase](https://firebase.google.com/)
-- Arduino IDE com bibliotecas instaladas
-
-<br>
-
 ## 🚀 Como Executar
 
 ### 1. Clone o repositório
